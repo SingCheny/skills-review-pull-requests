@@ -12,6 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
+<studio.h>
 
 <!--
   <<< Author notes: Step 5 >>>
