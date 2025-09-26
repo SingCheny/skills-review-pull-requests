@@ -15,11 +15,6 @@ _Collaborate and work together on GitHub._
 <studio.h>
 
 <!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous
-  Define terms and link to docs.github.com.
--->
-
 ## Step 5: Apply suggested changes
 
 _Nicely done suggesting changes! :partying_face:_
@@ -29,8 +24,21 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 ### :keyboard: Activity: Apply suggested changes
 
 1. Click **Commit suggestion**.
-1. Type a commit message.
-1. Click **Commit changes**.
+2. Type a commit message.
+3. Click **Commit changes**.
+
+## Step 6: Merge your pull request
+
+_Almost there! :heart:_
+
+You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+
+### :keyboard: Activity: Merge your pull request
+
+1. Click **Merge pull request**.
+2. Delete the branch `update-game` (optional).
+3. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
